@@ -1,8 +1,7 @@
-# Reading List
+# Reading List (Academic)
 A list of things that I'm either reading or planning on doing so.
 
-## Academic
-
+For non-academic stuff, check out my [GoodReads](https://www.goodreads.com/user/show/36977935-tarun-verma).
 ### Reading
 Books:
 - [*Reverse Engineering for Beginners*](http://beginners.re/), D. Yurichev (started 06/01/2016): I'm doing an independent study at college on reverse engineering. This book's quite useful, but a bit verbose at times.
