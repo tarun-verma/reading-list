@@ -2,7 +2,7 @@
 A list of things that I'm either reading or planning on doing so.
 
 ## Academic
-===
+---
 ### Reading
 Books:
 - [*Reverse Engineering for Beginners*](http://beginners.re/), D. Yurichev (started 06/01/2016): I'm doing an independent study at college on reverse engineering. This book's quite useful, but a bit verbose at times.
