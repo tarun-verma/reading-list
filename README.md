@@ -2,7 +2,7 @@
 A list of things that I'm either reading or planning on doing so.
 
 ## Academic
----
+
 ### Reading
 Books:
 - [*Reverse Engineering for Beginners*](http://beginners.re/), D. Yurichev (started 06/01/2016): I'm doing an independent study at college on reverse engineering. This book's quite useful, but a bit verbose at times.
@@ -19,7 +19,7 @@ Asyncronous, and Fileless Backdoor*](https://www.blackhat.com/docs/us-15/materia
 
 ### To Read
 Books:
-- [*Linear Algebra Done Wrong*](https://www.math.brown.edu/~treil/papers/LADW/LADW.html), S. Treil: Didn't pay much attention to Linear Algebra classes in school. Have been regretting my existence since.
+- [*Linear Algebra Done Wrong*](https://www.math.brown.edu/~treil/papers/LADW/LADW.html), S. Treil: Didn't pay much attention to Linear Algebra classes in school. Have been regretting my existence ever since.
 - [*Safe C++*](http://www.amazon.com/Safe-How-avoid-common-mistakes-ebook/dp/B00885RVNS), V. Kushnir
 - [*Dragon Book*](http://www.amazon.com/Safe-How-avoid-common-mistakes-ebook/dp/B00885RVNS), J. Ullman, A. Aho, M. S. Lam, R. Sethi
 - [*Real World Haskell*](http://www.amazon.com/Real-World-Haskell-Bryan-OSullivan/dp/0596514980), B. O'Sullivan, J. Goerzen & D. Stewart: Finished the Delft course on edX, but didn't take much from it. This book might help.
