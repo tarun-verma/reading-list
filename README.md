@@ -1,6 +1,6 @@
 # Reading List (Academic)
 
-## A list of things I'm either reading or planning on doing so.
+### A list of things I'm either reading or planning on doing so.
 
 [Scientific/Research papers](https://github.com/tarun-verma/papers)
 
